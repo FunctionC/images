@@ -1,0 +1,207 @@
+2023-07-27 09:46:24 [PicGo INFO] [PicGo Server] is listening at 36677 
+2023-07-27 09:46:24 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2023-07-27 09:46:24 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2023-07-27 09:47:14 [PicGo INFO] detect second instance 
+2023-07-27 09:47:49 [PicGo INFO] detect second instance 
+2023-07-27 09:47:57 [PicGo INFO] detect second instance 
+2023-07-27 09:48:57 [PicGo INFO] Before transform 
+2023-07-27 09:48:57 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-07-27 09:48:57 [PicGo INFO] Before upload 
+2023-07-27 09:48:57 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2023-07-27 09:48:57 [PicGo INFO] Uploading... Current uploader is [smms] 
+2023-07-27 09:49:18 [PicGo ERROR] {
+  "method": "POST",
+  "url": "https://sm.ms/api/v2/upload",
+  "statusCode": 0,
+  "message": "connect ETIMEDOUT 46.82.174.69:443",
+  "stack": "Error: connect ETIMEDOUT 46.82.174.69:443\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)",
+  "response": {
+    "status": 0,
+    "statusCode": 0,
+    "body": ""
+  }
+} 
+2023-07-27 09:49:18 [PicGo WARN] failed 
+2023-07-27 09:49:18 [PicGo ERROR] {
+  "method": "POST",
+  "url": "https://sm.ms/api/v2/upload",
+  "statusCode": 0,
+  "message": "connect ETIMEDOUT 46.82.174.69:443",
+  "stack": "Error: connect ETIMEDOUT 46.82.174.69:443\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)",
+  "response": {
+    "status": 0,
+    "statusCode": 0,
+    "body": ""
+  }
+} 
+2023-07-27 09:49:18 [PicGo ERROR] {
+  "method": "POST",
+  "url": "https://sm.ms/api/v2/upload",
+  "statusCode": 0,
+  "message": "connect ETIMEDOUT 46.82.174.69:443",
+  "stack": "Error: connect ETIMEDOUT 46.82.174.69:443\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1146:16)",
+  "response": {
+    "status": 0,
+    "statusCode": 0,
+    "body": ""
+  }
+} 
+2023-07-27 09:49:20 [PicGo INFO] Before transform 
+2023-07-27 09:49:20 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-07-27 09:49:20 [PicGo INFO] Before upload 
+2023-07-27 09:49:20 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2023-07-27 09:49:20 [PicGo INFO] Uploading... Current uploader is [github] 
+2023-07-27 09:49:21 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/FunctionC/images/main/23fb94c71cfc78245a4e79decd6edb4.jpg 
+2023-07-27 09:50:52 [PicGo INFO] upload clipboard file 
+2023-07-27 09:50:53 [PicGo ERROR] 
+------Error Stack Begin------
+Error: image not found in clipboard
+    at $t.upload (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:72850)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.upload (D:\Program Files\PicGo\resources\app.asar\index.js:2:690303)
+    at async D:\Program Files\PicGo\resources\app.asar\index.js:2:692247
+    at async ur (D:\Program Files\PicGo\resources\app.asar\index.js:2:692079)
+-------Error Stack End------- 
+2023-07-27 09:51:54 [PicGo INFO] [PicGo Server] shutdown 
+2023-07-27 09:51:54 [PicGo INFO] [PicGo Server] is listening at 36677 
+2023-07-27 09:52:02 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 09:52:15 [PicGo INFO] [PicGo Server] shutdown 
+2023-07-27 09:52:15 [PicGo INFO] [PicGo Server] is listening at 36677 
+2023-07-27 09:52:18 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 09:52:39 [PicGo INFO] Before transform 
+2023-07-27 09:52:39 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-07-27 09:52:39 [PicGo INFO] Before upload 
+2023-07-27 09:52:39 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2023-07-27 09:52:39 [PicGo INFO] Uploading... Current uploader is [github] 
+2023-07-27 09:52:41 [PicGo SUCCESS] 
+https://raw.githubusercontent.com/FunctionC/images/main/%E8%AE%A1%E7%AE%97%E6%9C%BA.jpeg 
+2023-07-27 09:53:33 [PicGo INFO] [PicGo Server] shutdown 
+2023-07-27 09:53:33 [PicGo INFO] [PicGo Server] is listening at 8082 
+2023-07-27 09:53:39 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 09:53:41 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 09:55:41 [PicGo INFO] Before transform 
+2023-07-27 09:55:41 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-07-27 09:55:41 [PicGo INFO] Before upload 
+2023-07-27 09:55:41 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2023-07-27 09:55:41 [PicGo INFO] Uploading... Current uploader is [github] 
+2023-07-27 09:55:43 [PicGo WARN] failed 
+2023-07-27 09:55:43 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/FunctionC/contents/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220311164302.jpg",
+  "statusCode": 404,
+  "message": "Request failed with status code 404",
+  "stack": {},
+  "response": {
+    "status": 404,
+    "statusCode": 404,
+    "body": {
+      "message": "Not Found",
+      "documentation_url": "https://docs.github.com/rest"
+    }
+  }
+} 
+2023-07-27 09:55:43 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/FunctionC/contents/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220311164302.jpg",
+  "statusCode": 404,
+  "message": "Request failed with status code 404",
+  "stack": {},
+  "response": {
+    "status": 404,
+    "statusCode": 404,
+    "body": {
+      "message": "Not Found",
+      "documentation_url": "https://docs.github.com/rest"
+    }
+  }
+} 
+2023-07-27 10:01:40 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:01:41 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:01:41 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:07 [PicGo INFO] [PicGo Server] is listening at 8082 
+2023-07-27 10:02:07 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2023-07-27 10:02:07 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2023-07-27 10:02:09 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:09 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:21 [PicGo INFO] [PicGo Server] shutdown 
+2023-07-27 10:02:21 [PicGo INFO] [PicGo Server] is listening at 8082 
+2023-07-27 10:02:25 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:26 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:30 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:31 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:31 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:31 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:32 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:32 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:55 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:02:56 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:04:10 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:10:00 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:10:14 [PicGo INFO] [PicGo Server] shutdown 
+2023-07-27 10:10:14 [PicGo INFO] [PicGo Server] is listening at 8082 
+2023-07-27 10:10:16 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:10:17 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:10:24 [PicGo WARN] [PicGo Server] don't support [GET] method 
+2023-07-27 10:12:19 [PicGo INFO] [PicGo Server] get the request  
+2023-07-27 10:12:19 [PicGo INFO] [PicGo Server] upload clipboard file 
+2023-07-27 10:12:19 [PicGo INFO] upload clipboard file 
+2023-07-27 10:12:19 [PicGo ERROR] 
+------Error Stack Begin------
+Error: image not found in clipboard
+    at $t.upload (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:72850)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Object.upload (D:\Program Files\PicGo\resources\app.asar\index.js:2:690303)
+    at async D:\Program Files\PicGo\resources\app.asar\index.js:2:692247
+    at async ur (D:\Program Files\PicGo\resources\app.asar\index.js:2:692079)
+    at async D:\Program Files\PicGo\resources\app.asar\index.js:2:693874
+-------Error Stack End------- 
+2023-07-27 10:12:19 [PicGo INFO] [PicGo Server] upload result:  
+2023-07-27 10:12:19 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2023-07-27 10:14:02 [PicGo ERROR] [PicGo Server] 
+------Error Stack Begin------
+SyntaxError: Unexpected token U in JSON at position 30
+    at JSON.parse (<anonymous>)
+    at IncomingMessage.<anonymous> (D:\Program Files\PicGo\resources\app.asar\index.js:2:694719)
+    at IncomingMessage.emit (node:events:406:35)
+    at endReadableNT (node:internal/streams/readable:1343:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+-------Error Stack End------- 
+2023-07-27 10:14:02 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2023-07-27 10:14:25 [PicGo INFO] [PicGo Server] get the request {
+    "list":[
+        "/Users/Administrator/Desktop.下载.jpg"
+    ]
+} 
+2023-07-27 10:14:25 [PicGo INFO] [PicGo Server] upload files in list 
+2023-07-27 10:14:25 [PicGo INFO] Before transform 
+2023-07-27 10:14:25 [PicGo INFO] Transforming... Current transformer is [path] 
+2023-07-27 10:14:25 [PicGo WARN] failed 
+2023-07-27 10:14:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: read file /Users/Administrator/Desktop.下载.jpg error
+    at D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:40463
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:40348)
+    at async je.doTransform (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19272)
+    at async je.start (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18509)
+    at async $t.upload (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:72724)
+    at async Object.upload (D:\Program Files\PicGo\resources\app.asar\index.js:2:690303)
+    at async cr (D:\Program Files\PicGo\resources\app.asar\index.js:2:693050)
+    at async D:\Program Files\PicGo\resources\app.asar\index.js:2:694129
+-------Error Stack End------- 
+2023-07-27 10:14:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: read file /Users/Administrator/Desktop.下载.jpg error
+    at D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:40463
+    at async Promise.all (index 0)
+    at async Object.handle (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:40348)
+    at async je.doTransform (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19272)
+    at async je.start (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18509)
+    at async $t.upload (D:\Program Files\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:72724)
+    at async Object.upload (D:\Program Files\PicGo\resources\app.asar\index.js:2:690303)
+    at async cr (D:\Program Files\PicGo\resources\app.asar\index.js:2:693050)
+    at async D:\Program Files\PicGo\resources\app.asar\index.js:2:694129
+-------Error Stack End------- 
+2023-07-27 10:14:25 [PicGo INFO] [PicGo Server] upload result  
+2023-07-27 10:14:25 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
